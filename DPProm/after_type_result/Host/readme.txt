@@ -1,0 +1,1 @@
+Is stored in the folder by DPProm - 2 l judgment for the host type of promoter sequences

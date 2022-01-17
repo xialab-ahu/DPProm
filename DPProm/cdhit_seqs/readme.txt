@@ -1,0 +1,1 @@
+This folder holds the results of CD-HIT redundancy removal

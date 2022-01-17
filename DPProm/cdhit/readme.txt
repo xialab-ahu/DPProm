@@ -1,0 +1,1 @@
+This folder is used for cdHIT de-redundancy of sequences
