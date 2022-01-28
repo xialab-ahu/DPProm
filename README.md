@@ -15,6 +15,7 @@
 ### merge_seqs.py: sequence merge the result of DPProm-1L and check the merge result
 ### cdhit.py: cdhit removes redundant sequences in the same non-coding region
 ### type.py: predicted promoter type: host or phage
+### transfer_method:  transfer learning method is used to improve DPProm-1L
 ## Installation
 ### Requirement
 ### Linux： Ubuntu 16.04 LTS or later
