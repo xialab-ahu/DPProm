@@ -1,4 +1,3 @@
-<font face="宋体">
 # DPProm
 ### DPProm: A Two-layer Predictor for Identifying Promoters and Their Types in Phage Genome Based on Deep Learning
 ## Introduction
@@ -20,4 +19,3 @@
 ### Requirement
 #### Linux： Ubuntu 16.04 LTS or later
 #### python >= 3.6
-</font>
