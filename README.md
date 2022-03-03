@@ -1,5 +1,5 @@
 # DPProm
-### DPProm: A Two-layer Predictor for Identifying Promoters and Their Types in Phage Genome Based on Deep Learning
+### DPProm: A Two-layer Predictor for Identifying Promoters and Their Types on Phage Genome Using Deep Learning
 ## Introduction
 ### Motivation:
 With the number of phage genomes increasing, it is urgent to develop new bioinformatics methods for phage genome annotation. Promoter is a DNA region and important for gene transcriptional regulation. In the era of post-genomics, the availability of data made it possible to establish computational models for promoter identification with robustness.
